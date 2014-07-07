@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+
 	<project name="sampleProject" basedir="." default="jar">
 	    <property name="src" value="src"/>
 	    <property name="output" value="bin"/>
