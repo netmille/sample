@@ -5,4 +5,4 @@ This is a sample repository.
 
 This project will be used to demonstrate Bamboo/JIRA integration.
 
-Update 5
+Update 6
